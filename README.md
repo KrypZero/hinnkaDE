@@ -19,7 +19,7 @@ Fedora:
 
 # Non-Manual:
 
-Get `install.sh` from [release](https://github.com/kk2lly/hinnkaDE/releases/tag/Shell)
+Get `install.sh` from [release](https://github.com/KrypZero/hinnkaDE/releases/tag/Shell)
 
 -----------------------------
 
@@ -27,11 +27,7 @@ Get `install.sh` from [release](https://github.com/kk2lly/hinnkaDE/releases/tag/
 
 1: Open the terminal and type:
 
-`git clone https://github.com/kk2lly/hinnkaDE`
-
-Or
-
-`git clone https://github.com/HinnkaStudios-Open-Sources-Project/hinnkaDE`
+`git clone https://github.com/KrypZero/hinnkaDE`
 
 Once done, type `cd hinnkaDE`
 
